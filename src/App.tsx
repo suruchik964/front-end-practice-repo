@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   const [count, setCount] = useState(0);
 
-  return <div className="bg-black text-white">Suruchi</div>;
+  return <div className="bg-black text-white">hello</div>;
 }
 
 export default App;
